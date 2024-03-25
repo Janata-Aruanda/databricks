@@ -3,10 +3,7 @@
 
 Databricks com Spark, Delta Lake e Machine Learning foi realizado na plataforma EIA - [Escola de Inteligência Artificial](https://www.eia.ai/view/courses/databricks-com-spark-delta-lake-e-machine-learning-2023.
 
- 
-- Pode compreender:
-
-* Fundamentos de Data Warehouse
+ * Fundamentos de Data Warehouse
 * Data Lake e Delta Lake
 * Conhecer Databricks e Criando um Cluster
 * Introdução ao Spark
